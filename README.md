@@ -36,7 +36,7 @@ The ```get_bible()``` method from the ```Bible``` class returns a dictionary of 
 }
 ```
 
-where d1 is a dict of the form:
+where, for example, d1 is a dict of the form:
 
 ```
 {
@@ -44,13 +44,11 @@ where d1 is a dict of the form:
         1 : "In the beginning God created the heaven and the earth.",
         2 : "And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.",
         ...
-        31: "And God saw every thing that he had made, and, behold, it was very good. And the evening and the morning were the sixth day."
         },
     2 : {
         1 : "Thus the heavens and the earth were finished, and all the host of them.",
         2 : "And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made.",
         ...
-        25: "And they were both naked, the man and his wife, and were not ashamed."
         },
     ...
 }
