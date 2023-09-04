@@ -1,6 +1,7 @@
 # KING JAMES VERSION (KJV) BIBLE DATASET
 
-**Author(s): Mihir Rao, Siddhanth Agrawal**\n
+**Author(s): Mihir Rao, Siddhanth Agrawal**
+
 **DATE: 3rd September, 2023**
 
 ## Introduction
