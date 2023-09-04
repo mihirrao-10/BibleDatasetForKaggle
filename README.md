@@ -29,25 +29,25 @@ The ```get_bible()``` method from the ```Bible``` class returns a dictionary of 
 
 ```
 {   
-    "Genesis"   : d1,
-    "Exodus"    : d2,
+    "Genesis"   : d1,    # Book 1
+    "Exodus"    : d2,    # Book 2
     ...
-    "Revelation": d66
+    "Revelation": d66    # Book 66
 }
 ```
 
-where, for example, d1 is a dict of the form:
+where, for example, d1 is a dict of the form
 
 ```
 {
-    1 : {
-        1 : "In the beginning God created the heaven and the earth.",
-        2 : "And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.",
+    1 : {    # Chapter 1
+        1 : "In the beginning God created the heaven and the earth.",    # Chapter 1, Verse 1
+        2 : "And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.",    # Chapter 1, Verse 2
         ...
         },
-    2 : {
-        1 : "Thus the heavens and the earth were finished, and all the host of them.",
-        2 : "And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made.",
+    2 : {    # Chapter 2
+        1 : "Thus the heavens and the earth were finished, and all the host of them.",    # # Chapter 2, Verse 1
+        2 : "And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made.",    # Chapter 2, Verse 2
         ...
         },
     ...
