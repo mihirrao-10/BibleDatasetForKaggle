@@ -20,7 +20,7 @@ In order to learn how to use this dataset, please take a look at the following e
 # Import the Bible class
 from Bible import Bible
 # Instantiate a Bible object
-bible_dict = bible.get_bible()
+bible = Bible()
 ```
 
 3. Now, simply use the Bible object to access the data. Before we take a look at a few examples, let's take a look at the structure of the data.
