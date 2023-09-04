@@ -1,4 +1,4 @@
-# KING JAMES VERSION (KJV) BIBLE DATASET
+# KING JAMES VERSION (KJV) BIBLE DATASET API
 
 **Author(s): Mihir Rao, Siddhanth Agrawal**
 
@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This data (and supporting code) was developed in an effort to make the process of using the *King James Version (KJB) Bible* for any kind of computational research easier.
+This dataset API was developed to make using the *King James Version (KJB) Bible* for any computational research easier.
 
 ## API
 
